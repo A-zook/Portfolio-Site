@@ -1,0 +1,40 @@
+
+@font-face{
+    font-family: TurretRoad;
+    src: url(../fonts/TurretRoad-ExtraBold.ttf);
+}
+
+@font-face{
+    font-family: Amatic;
+    src: url(../fonts/Amatic_SC/AmaticSC-Regular.ttf);
+}
+
+@font-face{
+    font-family: Architects-Daughter;
+    src: url(../fonts/Architects_Daughter/ArchitectsDaughter-Regular.ttf);
+}
+
+@font-face{
+    font-family: Barlow-Condensed ;
+    src: url(../fonts/Barlow_Condensed/BarlowCondensed-Regular.ttf);
+}
+
+@font-face{
+    font-family: Fredoka-One;
+    src: url(../fonts/Fredoka_One/FredokaOne-Regular.ttf);
+}
+
+@font-face{
+    font-family: Gochi-Hand;
+    src: url(../fonts/Gochi_Hand/GochiHand-Regular.ttf);
+}
+
+@font-face{
+    font-family: Indie-Flower;
+    src: url(../fonts/Indie_Flower/IndieFlower-Regular.ttf);
+}
+
+@font-face{
+    font-family: Nanum-Pen-Script;
+    src: url(../fonts/Nanum_Pen_Script/NanumPenScript-Regular.ttf);
+}
